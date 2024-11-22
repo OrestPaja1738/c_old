@@ -1,0 +1,5 @@
+Order ID: 10, Total Price: 23
+Order ID: 34, Total Price: 45
+Order ID: 23, Total Price: 45
+Order ID: 23, Total Price: 34
+Order ID: 56, Total Price: 67

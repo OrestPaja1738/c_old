@@ -1,0 +1,36 @@
+Enter value for n:
+6
+getData
+
+Enter name and surname:
+e g
+Enter four grades:
+89 81 76 69
+Enter name and surname:
+g c
+Enter four grades:
+40 69 73 49
+Enter name and surname:
+m r
+Enter four grades:
+44 55 63 63
+Enter name and surname:
+b b
+Enter four grades:
+96 54 75 77
+Enter name and surname:
+c h
+Enter four grades:
+48 72 59 87
+Enter name and surname:
+c h
+Enter four grades:
+56 68 90 84 
+Enter value for top m-th students:
+3
+sortStruct
+
+Top students are:
+e g : 78.75
+b b : 75.50
+c h : 74.50
